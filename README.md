@@ -26,7 +26,7 @@ urls = {
 ...
 ```
 for key, value in urls<br />
-value = append to URL to query the genre.
+value = appends to URL to query the genre.
 ## Objective
 This program scrapes every section of placeholder data from [books.toscrape.com](https://books.toscrape.com/index.html)
 
