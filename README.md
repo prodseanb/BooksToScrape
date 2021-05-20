@@ -27,5 +27,8 @@ urls = {
 ```
 for key, value in urls<br />
 value = append to URL to query the genre.
+## Objective
+This program scrapes every section of placeholder data from [books.toscrape.com](https://books.toscrape.com/index.html)
+
 ### License
 [GNU](https://gist.github.com/nicolasdao/a7adda51f2f185e8d2700e1573d8a633#gpl-license-aka-gnu-general-public-license-v30)
